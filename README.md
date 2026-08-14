@@ -27,6 +27,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
 # 📊 GitHub Stats:
+<div align="center">
+     
 ![](https://github-readme-stats.vercel.app/api?username=dminayaramos-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dminayaramos-afk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dminayaramos-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
