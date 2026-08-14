@@ -28,6 +28,8 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
+
+
 <hr>
 
 ### S.O 💻
