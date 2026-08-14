@@ -15,7 +15,9 @@
 -🧠 I am always learning, building, and exploring new ideas to keep growing in the tech world.
 
 -🌐 Explore. Create. Learn. Repeat.
+<div align="center">
 
+     
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
@@ -32,6 +34,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=dminayaramos-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dminayaramos-afk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dminayaramos-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 <hr>
 
