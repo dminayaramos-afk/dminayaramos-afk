@@ -37,6 +37,10 @@
 
 
 
+  </div>
+  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 <hr>
 
 ### S.O 💻
