@@ -36,6 +36,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dminayaramos-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/dminayaramos-afk">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dminayaramos-afk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+  
 
   </div>
   <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
