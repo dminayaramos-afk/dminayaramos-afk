@@ -43,6 +43,14 @@
 
 <hr>
 
+
+![Gráfica de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=dminayaramos-afk&custom_title=GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
 ### S.O 💻
 
 ### ✔  MX linux, Ubuntu, Linux Mint, Pop!_OS, Kali linux, Debian, Arch Linux
