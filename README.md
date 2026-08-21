@@ -1,9 +1,9 @@
+cat > ~/perfil-readme.md << 'EOF'
 <img width="1584" height="396" alt="Apasionado por el mundo que me rodea" src="https://github.com/user-attachments/assets/3b9a3c08-3852-4bb3-a971-bd7bc222222b" />
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Danny Jesús</h2>
+<h2>Hey there! I'm Danny Jesús</h2>
 
-###  &nbsp;About Me
-
+### &nbsp;About Me
 - 🚀 Passionate about technology, development, and continuous learning.
 - 💻 I like experimenting with new technologies, developing projects, and finding creative solutions to real-world problems.
 - 🛠️ My main interests are software development, Linux, Open Source, networking, systems, cybersecurity, and hardware.
@@ -19,19 +19,26 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
+</div>
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 # 📊 GitHub Stats:
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dminayaramos-afk&theme=vision_friendly_dark" />
-<br/><br/>
-<img src="https://streak-stats.demolab.com/?user=dminayaramos-afk&theme=dark" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dminayaramos-afk&theme=dark&layout=compact" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dminayaramos-afk&show_icons=true&theme=dark" />
 
-</div>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dminayaramos-afk&theme=dark" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dminayaramos-afk&theme=dark&layout=compact" />
 
 </div>
 
@@ -39,22 +46,17 @@
 
 ![Gráfica de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=dminayaramos-afk&custom_title=GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ### S.O 💻
-
-### ✔  MX linux, Ubuntu, Linux Mint, Pop!_OS, Kali linux, Debian, Arch Linux
-### ✔  Windows
+### ✔ MX Linux, Ubuntu, Linux Mint, Pop!_OS, Kali Linux, Debian, Arch Linux
+### ✔ Windows
 
 <hr>
 
 <div align="center">
-<a href="https://linkedin.com/in/saurav-chamoli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saurav-chamoli" height="30" width="40" /></a>
-</div>
-
-<div align="center">
 <img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
 </div>
+
+
 
 <!-- FOOTER -->
 <div align="center" width="100">
