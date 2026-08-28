@@ -1,4 +1,4 @@
-cat > ~/perfil-readme.md << 'EOF'
+
 <img width="1584" height="396" alt="Apasionado por el mundo que me rodea" src="https://github.com/user-attachments/assets/3b9a3c08-3852-4bb3-a971-bd7bc222222b" />
 
 <h2>Hey there! I'm Danny Jesús</h2>
