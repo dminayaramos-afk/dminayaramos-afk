@@ -71,31 +71,34 @@ I'm passionate about **technology, development, and continuous learning**.
 </div>
 
 ---
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=dminayaramos-afk&show_icons=true&theme=dark&hide_border=true" alt="GitHub Statistics" width="450" />
+<table> <tr>
+
+<td width="55%" align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=dminayaramos-afk&show_icons=true&theme=dark&hide_border=true" alt="GitHub Statistics" width="100%" />
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://streak-stats.demolab.com/?user=dminayaramos-afk&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00FF88&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" width="100%" />
 
 <br><br>
 
-<br/><br/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dminayaramos-afk&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="100%" />
 
+</td>
 
-<a href="https://github.com/dminayaramos-afk">
-
-<img src="https://streak-stats.demolab.com/?user=dminayaramos-afk&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00FF88&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
-
-</a>
-
-
-<br><br>
-
-<br/><br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dminayaramos-afk&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="450" />
+</tr> </table>
 
 </div>
+
+</div>
+
 ---
 
 ## 🐧 Operating Systems
