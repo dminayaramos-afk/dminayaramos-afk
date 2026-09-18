@@ -71,51 +71,31 @@ I'm passionate about **technology, development, and continuous learning**.
 </div>
 
 ---
-
-# 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/dminayaramos-afk">
+<img src="https://github-stats-extended.vercel.app/api?username=dminayaramos-afk&show_icons=true&theme=dark&hide_border=true" alt="GitHub Statistics" width="450" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dminayaramos-afk&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3&icon_color=00FF88&ring_color=00E5FF" alt="Danny Jesús GitHub Stats">
-
-</a>
-
-  
+<br><br>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dminayaramos-afk&theme=dark&layout=compact" />
-
-</div>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
 
 <a href="https://github.com/dminayaramos-afk">
 
-<img src="https://streak-stats.demolab.com/?user=dminayaramos-afk&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00FF88&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak">
+<img src="https://streak-stats.demolab.com/?user=dminayaramos-afk&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00FF88&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
 
 </a>
 
-</div>
 
----
+<br><br>
 
-# 📈 GitHub Activity
+<br/><br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dminayaramos-afk&custom_title=Danny%20Jes%C3%BAs%20%E2%80%94%20GitHub%20Activity&bg_color=0D1117&color=E6EDF3&line=00E5FF&point=00FF88&area_color=00E5FF&title_color=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dminayaramos-afk&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="450" />
 
 </div>
-
 ---
 
 ## 🐧 Operating Systems
