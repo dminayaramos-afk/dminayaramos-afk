@@ -116,7 +116,9 @@ I'm passionate about **technology, development, and continuous learning**.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:071a2a,100:00e5ff&height=2&section=header" width="100%" alt="divider">
 
 </div>
+
 ---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
